@@ -1,0 +1,29 @@
+.portada {
+    height: 160px;
+    object-fit: cover;
+}
+
+.enlace_mas {
+    float: right;
+    text-align: center;
+}
+
+.encabezado {
+    font-weight: bold;
+}
+
+.titulo {
+    color: rgb(58, 132, 197);
+}
+
+.texto {
+    color: rgb(0, 42, 131);
+    font-weight: bold;
+}
+
+.linea {
+    border-top: 2px solid rgb(58, 132, 197);
+    height: 2px;
+    max-width: 190px;
+    padding: 0;
+  }
